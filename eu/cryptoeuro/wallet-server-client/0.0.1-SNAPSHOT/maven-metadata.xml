@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>eu.cryptoeuro</groupId>
+  <artifactId>wallet-server-client</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20171129.160855</timestamp>
+      <buildNumber>4</buildNumber>
+    </snapshot>
+    <lastUpdated>20171129160855</lastUpdated>
+  </versioning>
+</metadata>
