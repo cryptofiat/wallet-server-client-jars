@@ -3,9 +3,12 @@
   <groupId>eu.cryptoeuro</groupId>
   <artifactId>wallet-server-client</artifactId>
   <versioning>
+    <release>0.0.1</release>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
+      <version>0.0.1</version>
+      <version>0.0.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20171129160855</lastUpdated>
+    <lastUpdated>20171130105225</lastUpdated>
   </versioning>
 </metadata>
